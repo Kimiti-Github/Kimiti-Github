@@ -1,4 +1,5 @@
-- 👋 Hi, I’M John Waigwa
+
+- 👋 Hi,I’M John Waigwa
 - 👀 I’m interested in programming and cyber security
 - 🌱 I’m currently learning DevSecOps at Moringa School
 - 💞️ I’m looking to collaborate on improving my coding skills.
