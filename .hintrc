@@ -3,6 +3,21 @@
     "development"
   ],
   "hints": {
-    "meta-viewport": "off"
-  }
+    "meta-viewport": "off",
+    "compat-api/css": "off",
+    "compat-api/html": [
+      "default",
+      {
+        "ignore": [
+          "input[autocapitalize]"
+        ]
+      }
+    ]
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_ff <= 106",
+    "not firefox <= 107"
+  ]
 }
